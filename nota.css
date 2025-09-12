@@ -106,10 +106,10 @@ h1 {
 	--slider-track-background: #4a98ac;
 
 
+
+
+
     /*Typography*/
-    --font-text-theme: "Open Sans Light", sans-serif;
-    --font-interface-theme: "WorkSans", sans-serif;
-    --font-monospace-theme: "Source Code Pro", monospace;
     --font-text-size: 18px;
     --font-smallest: 0.65em;
     --font-smaller: 0.8em;
@@ -123,27 +123,12 @@ h1 {
     --font-ui-small: 14px;
     --font-ui-medium: 16px;
     --font-ui-larger: 18px;
-    --radius-s: 8px;
-    --radius-m: 10px;
-    --radius-l: 14px;
-    --radius-xl: 16px;
 
-    /* Main Colors */
-    --accent-h: 254;
-    --accent-s: 80%;
-    --accent-l: 68%;
 
     /* Headers */
-    --inline-title-font: "Nunito", sans-serif;
     --inline-title-line-height: 1.61;
     --inline-title-size: 2.2em;
     --inline-title-weight: 300;
-    --h1-font: "Nunito", sans-serif;
-    --h2-font: "Nunito", sans-serif;
-    --h3-font: "Nunito", sans-serif;
-    --h4-font: "Nunito", sans-serif;
-    --h5-font: "Nunito", sans-serif;
-    --h6-font: "Nunito", sans-serif;
     --h1-size: 1.9em;
     --h2-size: 1.75em;
     --h3-size: 1.61em;
