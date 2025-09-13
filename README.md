@@ -137,15 +137,15 @@ I highly recommend checking out the [wiki of this repo](https://github.com/Dario
 
 # 🚧 Roadmap
 
-[ ] Fix the small ui font error
-[ ] Optimize the CSS fonts
-[ ] Optimize for mobile
-[ ] Incorporate certain elements like callouts, checkboxes
-[ ] Incorporate core and community plugins
-[ ] Add cool effects to each design
-[ ] Add more designs
-[ ] Create my own typeface
-[ ] Add easter eggs
+- [ ] Fix the small ui font error
+- [ ] Optimize the CSS fonts
+- [ ] Optimize for mobile
+- [ ] Incorporate certain elements like callouts, checkboxes
+- [ ] Incorporate core and community plugins
+- [ ] Add cool effects to each design
+- [ ] Add more designs
+- [ ] Create my own typeface
+- [ ] Add easter eggs
 
 # 🩵 Credits
 
